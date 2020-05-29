@@ -42,7 +42,7 @@
 		<object-name>Kil</object-name>
 		<property-base>sim/model/livery</property-base>
 		<texture-prop>texture</texture-prop>
-		<texture>Yak-53.png</texture>
+		<texture>Yak-53SK.png</texture>
 	</animation>
  
 
